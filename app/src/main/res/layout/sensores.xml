@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <TextView android:id = "@+id/etiqSensorDeMovimiento"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/etiqSensorDeMovimiento">
+        </TextView>
+        <TextView
+            android:id = "@+id/sensorDeMovimiento"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="">
+        </TextView>
+
+        <TextView
+            android:id="@+id/etiqSensorDeTemperatura"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/etiqSensorDeTemperatura">
+        </TextView>
+        <TextView
+            android:id="@+id/sensorDeTemperatura"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="">
+        </TextView>
+
+        <TextView
+            android:id="@+id/etiqsensorDeGravedad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/etiqSensorGravity" />
+
+        <TextView
+            android:id="@+id/sensorDeGravedad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+    </LinearLayout>
+</ScrollView>

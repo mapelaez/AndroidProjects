@@ -1,0 +1,3 @@
+este fichero es
+para probar el acceso 
+a fichero a modo de recursos

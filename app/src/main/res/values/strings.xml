@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Gestor Eventos</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="logout">Logout</string>
+
+    <string name="menu_gestionUs">Gestión Usuarios</string>
+    <string name="menu_gestionEv">Gestión Eventos</string>
+    <string name="menu_eventoDis">Eventos Disponibles</string>
+    <string name="menu_eventoRes">Eventos Reservados</string>
+    <string name="menu_eventoEx">Extras</string>
+    <string name="menu_eventoPer">Modificar Cuenta</string>
+
+
+    <string name="titulo1"> Nombre de usuario </string>
+    <string name="titulo2"> Contraseña </string>
+    <string name="titulo3"> Confirmar Contraseña </string>
+    <string name="titulo4"> Permisos </string>
+    <string name="titulo5"> Nombre de evento </string>
+    <string name="titulo6"> Descripcion de evento </string>
+    <string name="titulo7"> Foto de evento</string>
+    <string name="titulo8"> Bienvenido Nuevo Usuario </string>
+    <string name="titulo9"> Cambiar Contraseña</string>
+    <string name="titulo10"> Escribir Contraseña Actual</string>
+    <string name="titulo11"> Escribir Contraseña Nueva</string>
+    <string name="titulo12"> Nombre </string>
+    <string name="titulo13"> Telefono </string>
+    <string name="titulo14"> Contenido Extra</string>
+    <string name="titulo15"> Fichero Externo</string>
+    <string name="titulo16"> Fichero Interno</string>
+    <string name="titulo17"> Fichero Raw</string>
+    <string name="titulo18">Introduzca Nombre y Alias</string>
+
+    <string name="textotoggle">(ON/OFF)</string>
+
+    <string name="botonExtra1"> Content Providers Sistema</string>
+    <string name="botonExtra2"> Ficheros Externos </string>
+    <string name="botonExtra3"> Ficheros Internos </string>
+    <string name="botonExtra4"> Ficheros RAW </string>
+    <string name="botonExtra5"> Presión Pantalla </string>
+    <string name="botonExtra6"> Sensores </string>
+    <string name="botonExtra7"> Shared Preferences </string>
+    <string name="botonExtra8"> Notificaciones </string>
+    <string name="botonExtra9"> Youtube </string>
+    <string name="botonExtra10"> Toast </string>
+
+    <string name="BTNorm">Toast Normal</string>
+    <string name="BTGrav">Toast Con Gravity</string>
+    <string name="BTPers">Toast Personal</string>
+
+    <string name="etiqSensorDeMovimiento">Sensor de Movimiento</string>
+    <string name="etiqSensorDeTemperatura">Sensor de Temperatura</string>
+    <string name="etiqSensorGravity">Sensor de Gravedad</string>
+
+    <string name="botonExterno1"> Escribir en SD </string>
+    <string name="botonExterno2">Leer Fichero de SD</string>
+
+    <string name="botonShared1">Guardar Nombre</string>
+    <string name="botonShared2">Guardar Nickname</string>
+    <string name="botonShared3">Boton Mostrar</string>
+
+    <string name="notificar">Notificar!</string>
+
+    <string name="botonRaw">Acceso a Raw</string>
+
+    <string name="botonPan">Resetear Texto</string>
+
+    <string name="boton1"> Añadir Usuario </string>
+    <string name="boton2"> Borrar Usuario </string>
+    <string name="boton3"> Actualizar Usuario </string>
+    <string name="boton4"> Mostrar Usuario </string>
+    <string name="boton5"> Añadir Evento </string>
+    <string name="boton6"> Borrar Evento </string>
+    <string name="boton7"> Actualizar Evento </string>
+    <string name="boton8"> Loguearse </string>
+    <string name="boton9"> Registrarse </string>
+    <string name="boton10"> Modificar Datos </string>
+    <string name="boton11"> Añadir Contacto </string>
+    <string name="boton12"> Mostrar Contactos </string>
+    <string name="boton13"> Guardar en Archivo</string>
+    <string name="boton14"> Leer de Fichero </string>
+    <string name="boton15"> Notificar!! </string>
+
+
+
+
+    <string name="botonlistview1"> Reservar </string>
+    <string name="botonlistview2"> Borrar Reserva </string>
+
+    <string name="titulo_menu1"> Panel Admin </string>
+    <string name="titulo_menu2"> Panel Usuario </string>
+</resources>

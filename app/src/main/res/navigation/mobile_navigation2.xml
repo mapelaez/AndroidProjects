@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation2.xml"
+    app:startDestination="@+id/nav_eventosDisponibles">
+
+    <fragment
+    android:id="@+id/nav_eventosDisponibles"
+    android:name="com.example.paneladmin.ui.eventosDisponibles.EventosDisponiblesFragment"
+    android:label="@string/menu_eventoDis"
+    tools:layout="@layout/fragmento_eventos_disponibles" />
+
+    <fragment
+        android:id="@+id/nav_eventosReservados"
+        android:name="com.example.paneladmin.ui.eventosReservados.EventosReservadosFragment"
+        android:label="@string/menu_eventoRes"
+        tools:layout="@layout/fragmento_eventos_reservados" />
+
+    <fragment
+        android:id="@+id/nav_extras"
+        android:name="com.example.paneladmin.ui.extras.ExtrasFragment"
+        android:label="@string/menu_eventoEx"
+        tools:layout="@layout/fragmento_extras"/>
+    <fragment
+        android:id="@+id/nav_perfil"
+        android:name="com.example.paneladmin.ui.modificarCuenta.ModificarCuentaFragment"
+        android:label="@string/menu_eventoPer"
+        tools:layout="@layout/fragmento_perfil" />
+</navigation>
